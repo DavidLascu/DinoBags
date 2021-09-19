@@ -18,4 +18,6 @@ I am proud to have so quickly picked up a concept I previously regarded as forei
 # What's next for DinoBags
 Now that it is hosted on Opensea it opens the possibility for potential collectors to invest in the project. I will try my best to market it in a way that could help it grow in the space.
 
-Big thank you to HashLips : https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA. A lot of code he created has been used and modified in this project.
+**Check out DinoBags at: https://opensea.io/collection/dinobags**
+
+**Big thank you to HashLips : https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA. A lot of code he created has been used and modified in this project.**
